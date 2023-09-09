@@ -1,7 +1,7 @@
 ## Hi, friends 👋
 
 
-🙋‍♀️ Hindia.dev is a collective of programmer change agents working to advance Indonesia in the field of science and technology.
+🙋‍♀️ Hindia.dev is a collective of programmer working to advance Indonesia in technology.
 
 🍿 Fun facts - Nasi Padang is our favorite food.
 
