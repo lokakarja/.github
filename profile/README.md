@@ -1,8 +1,8 @@
-## Halo, sahabat 👋
+## Hi, friends 👋
 
 
-🙋‍♀️ Hindia.dev adalah perkumpulan programmer agen perubahan untuk membangun Indonesia yang lebih maju di bidang iptek.
+🙋‍♀️ Hindia.dev is a collective of programmer change agents working to advance Indonesia in the field of science and technology.
 
-🍿 Fun facts - Nasi Padang adalah makanan favorit kami.
+🍿 Fun facts - Nasi Padang is our favorite food.
 
-🧙 Hubungi kami melalui [Instagram](https://instagram.com/hindia.dev).
+🧙 Reach out to us on [Instagram](https://instagram.com/hindia.dev).
