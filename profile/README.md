@@ -1,4 +1,4 @@
-## Hi, friends 👋
+## Hi, friends! 👋
 
 
 🙋‍♀️ Hindia.dev is a collective of programmer working to advance Indonesia in technology.
