@@ -1,8 +1,8 @@
 ## Hi, friends! 👋
 
 
-🙋‍♀️ Hindia.dev is a collective of programmer working to advance Indonesia in technology.
+🙋‍♀️ Hindia.dev is a collective of programmers dedicated to advancing technology in Indonesia.
 
-🍿 Fun facts - Nasi Padang is our favorite food.
+🍿 Fun fact: Our favorite food is Nasi Padang.
 
 🧙 Reach out to us on [Instagram](https://instagram.com/hindia.dev).
