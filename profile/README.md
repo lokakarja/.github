@@ -1,4 +1,4 @@
-## Hi, friends! 👋
+## L O K A K A R J A ! 👋
 
 
 🙋‍♀️ L O K A K A R J A is a collective of programmers dedicated to advancing technology in Indonesia.
